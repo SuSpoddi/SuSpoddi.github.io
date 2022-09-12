@@ -1,2 +1,2 @@
-# H1 SuSpoddi's Website
+# SuSpoddi's Website
 ___
