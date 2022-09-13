@@ -9,3 +9,5 @@ You have you see this site[^1]
 
 ___
 
+$ dig example.com +nostats +nocomments +nocmd
+porchgot.com.   3600  IN  A 185.199.108.153
